@@ -1,0 +1,23 @@
+[
+        {
+                "name": "Irrigation",
+                "isNationalWonder": true,
+		"requiredTech": "Agriculture",
+		"uniques": ["Unbuildable","Can be purchased for [10] [Culture] [in all cities]",
+                        "Free [Worker] appears","Must be next to [Farm]","Unbuildable <in cities with a [Makeshift Hoe]>"]
+        },
+        {
+                "name": "Makeshift Hoe",
+                "isNationalWonder": true,
+		"requiredTech": "Agriculture",
+		"uniques": ["Unbuildable","Can be purchased for [10] [Culture] [in all cities]",
+                        "[-7]% tile improvement construction time","Unbuildable <in cities with a [Irrigation]>"]
+        },
+        {
+                "name": "Irrigation",
+                "isNationalWonder": true,
+		"requiredTech": "Agriculture",
+		"uniques": ["Unbuildable","Can be purchased for [10] [Culture] [in all cities]",
+                        "Free [Worker] appears","Must be next to [Farm]","Unbuildable <in cities with a [Makeshift Hoe]>"]
+        },
+]
