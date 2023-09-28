@@ -4,7 +4,7 @@
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
 		"uniques": ["Unbuildable","Can be purchased for [8] [Culture] [in all cities]",
-                        "[1] free [Worker] units appears","Must be next to [Farm]","Unbuildable <in cities with a [Makeshift Hoe]>"]
+                        "[1] free [Worker] units appear","Must be next to [Farm]","Unbuildable <in cities with a [Makeshift Hoe]>"]
         },
         {
                 "name": "Makeshift Hoe",
