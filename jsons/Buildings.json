@@ -70,21 +70,21 @@
                         "[-20]% [Gold] [in capital]","[+10]% [Gold] [in all cities]","Can only be built [in capital]","Unbuildable <in cities with a [Capitalism]>"]
 	},
 	{
-		"name": "Nash Equilibrium A",
+		"name": "Economic Dilemma A",
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
                         "[+35]% [Gold] <with [59]% chance>","[-50]% [Gold] <with [41]% chance>","Unbuildable <in cities with a [Nash equilibrium B]>"]
 	},
 	{
-		"name": "Nash Equilibrium B",
+		"name": "Economic Dilemma B",
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
                         "[+40]% [Gold] <with [41]% chance>","[-10]% [Gold] <with [59]% chance>","Unbuildable <in cities with a [Nash equilibrium A]>"]
 	},
 	{
-		"name": "Minimax",
+		"name": "Budget And Challenges",
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
