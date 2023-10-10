@@ -1,6 +1,7 @@
 [
         {
                 "name": "Irrigation",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
 		"uniques": ["Unbuildable","Can be purchased for [8] [Culture] [in all cities]",
@@ -8,6 +9,7 @@
         },
         {
                 "name": "Makeshift Hoe",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
 		"uniques": ["Unbuildable","Can be purchased for [8] [Culture] [in all cities]",
@@ -15,6 +17,7 @@
         },
         {
                 "name": "Authority",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
 		"uniques": ["Unbuildable","Can be purchased for [19] [Culture] [in all cities]",
@@ -22,6 +25,7 @@
         },
 	{
 		"name": "Porcelain",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
 		"uniques": ["Unbuildable","Can be purchased for [19] [Culture] [in all cities]",
@@ -29,6 +33,7 @@
 	},
 	{
 		"name": "Plow",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Unbuildable","Can be purchased for [19] [Culture] [in all cities]",
@@ -36,6 +41,7 @@
 	},
 	{
 		"name": "Pet",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Unbuildable","Can be purchased for [19] [Culture] [in all cities]",
@@ -43,6 +49,7 @@
 	},
 	{
 		"name": "Chrysopoeia",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
 		"uniques": ["Unbuildable","Can be purchased for [130] [Culture] [in all cities]",
@@ -50,6 +57,7 @@
 	},
 	{
 		"name": "Alloy",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
 		"uniques": ["Unbuildable","Can be purchased for [130] [Culture] [in all cities]",
@@ -57,6 +65,7 @@
 	},
 	{
 		"name": "Capitalism",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [250] [Culture] [in all cities]",
@@ -64,6 +73,7 @@
 	},
 	{
 		"name": "Redistribution",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [250] [Culture] [in all cities]",
@@ -71,6 +81,7 @@
 	},
 	{
 		"name": "Economic Dilemma A",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
@@ -78,6 +89,7 @@
 	},
 	{
 		"name": "Economic Dilemma B",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
@@ -85,6 +97,7 @@
 	},
 	{
 		"name": "Budget And Challenges",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
@@ -92,6 +105,7 @@
 	},
 	{
 		"name": "Superstring Theory",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
 		"uniques": ["Unbuildable","Can be purchased for [1500] [Culture] [in all cities]",
@@ -99,6 +113,7 @@
 	},
 	{
 		"name": "Dark Matter",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
 		"uniques": ["Unbuildable","Can be purchased for [1500] [Culture] [in all cities]",
@@ -106,6 +121,7 @@
 	},
 	{
 		"name": "Cosmic Inflation",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
 		"uniques": ["Unbuildable","Can be purchased for [2000] [Culture] [in all cities]",
@@ -113,6 +129,7 @@
 	},
 	{
 		"name": "Quantum Gravity Theory",
+		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
 		"uniques": ["Unbuildable","Can be purchased for [1500] [Culture] [in all cities]",
