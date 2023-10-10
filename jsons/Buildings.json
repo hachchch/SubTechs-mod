@@ -1,7 +1,7 @@
 [
         {
                 "name": "Irrigation",
-		"cost": 1,
+		"cost": 17,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
 		"uniques": ["Unbuildable","Can be purchased for [17] [Culture] [in all cities]",
@@ -9,7 +9,7 @@
         },
         {
                 "name": "Makeshift Hoe",
-		"cost": 1,
+		"cost": 17,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
 		"uniques": ["Unbuildable","Can be purchased for [17] [Culture] [in all cities]",
@@ -17,7 +17,7 @@
         },
         {
                 "name": "Authority",
-		"cost": 1,
+		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
 		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
@@ -25,7 +25,7 @@
         },
 	{
 		"name": "Porcelain",
-		"cost": 1,
+		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
 		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Plow",
-		"cost": 1,
+		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Pet",
-		"cost": 1,
+		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "Chrysopoeia",
-		"cost": 1,
+		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
 		"uniques": ["Unbuildable","Can be purchased for [139] [Culture] [in all cities]",
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Alloy",
-		"cost": 1,
+		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
 		"uniques": ["Unbuildable","Can be purchased for [139] [Culture] [in all cities]",
