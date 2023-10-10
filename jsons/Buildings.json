@@ -85,7 +85,7 @@
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
-                        "[+35]% [Gold] <with [59]% chance>","[-50]% [Gold] <with [41]% chance>","Unbuildable <in cities with a [Nash equilibrium B]>"]
+                        "[+35]% [Gold] <with [59]% chance>","[-50]% [Gold] <with [41]% chance>","Unbuildable <in cities with a [Economic Dilemma B]>"]
 	},
 	{
 		"name": "Economic Dilemma B",
@@ -93,7 +93,7 @@
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Unbuildable","Can be purchased for [1000] [Culture] [in all cities]",
-                        "[+40]% [Gold] <with [41]% chance>","[-10]% [Gold] <with [59]% chance>","Unbuildable <in cities with a [Nash equilibrium A]>"]
+                        "[+40]% [Gold] <with [41]% chance>","[-10]% [Gold] <with [59]% chance>","Unbuildable <in cities with a [Economic Dilemma A]>"]
 	},
 	{
 		"name": "Budget And Challenges",
