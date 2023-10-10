@@ -4,7 +4,7 @@
 		"cost": 17,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
-		"uniques": ["Unbuildable","Can be purchased for [17] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [17] [Culture] [in all cities] <in cities without a [Makeshift Hoe]>",
                         "[1] free [Worker] units appear","Must be next to [Farm]","Cannot be purchased <in cities with a [Makeshift Hoe]>"]
         },
         {
@@ -12,7 +12,7 @@
 		"cost": 17,
                 "isNationalWonder": true,
 		"requiredTech": "Agriculture",
-		"uniques": ["Unbuildable","Can be purchased for [17] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [17] [Culture] [in all cities] <in cities without a [Irrigation]>",
                         "[-7]% tile improvement construction time","Cannot be purchased <in cities with a [Irrigation]>"]
         },
         {
@@ -20,7 +20,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
-		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Porcelain]>",
                         "[Great General] is earned [+10]% faster","Cannot be purchased <in cities with a [Porcelain]>"]
         },
 	{
@@ -28,7 +28,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
-		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Provides [1] [Porcelain]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Authority]>",
                         "[Great Artist] is earned [+10]% faster","Cannot be purchased <in cities with a [Authority]>"]
 	},
 	{
@@ -36,7 +36,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
-		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Pet]>",
                         "[-7]% tile improvement construction time","[+4]% [Food]","Cannot be purchased <in cities with a [Pet]>"]
 	},
 	{
@@ -44,7 +44,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
-		"uniques": ["Unbuildable","Can be purchased for [28] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Plow]>",
                         "[+1 Happiness]","Cannot be purchased <in cities with a [Plow]>"]
 	},
 	{
@@ -52,7 +52,7 @@
 		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Unbuildable","Can be purchased for [139] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [139] [Culture] [in all cities] <in cities without a [Alloy]>",
                         "Provides [1] [Gold Ore]","Cannot be purchased <in cities with a [Alloy]>"]
 	},
 	{
@@ -60,7 +60,7 @@
 		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Unbuildable","Can be purchased for [139] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [139] [Culture] [in all cities] <in cities without a [Chrysopoeia]>",
                         "Provides [1] [Iron]","Cannot be purchased <in cities with a [Chrysopoeia]>"]
 	},
 	{
@@ -68,7 +68,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["Unbuildable","Can be purchased for [259] [Culture] [in all cities]",
+		"uniques": ["Unbuildable","Can be purchased for [259] [Culture] [in all cities] <in cities without a [Redistribution]>",
                         "[+20]% [Gold] [in capital]","[-10]% [Gold] [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Redistribution]>"]
 	},
 	{
@@ -76,7 +76,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["Unbuildable","Can be purchased for [259] [Culture] [in all cities]",
+		"uniques": ["Unbuildable","Can be purchased for [259] [Culture] [in all cities] <in cities without a [Capitalism]>",
                         "[-20]% [Gold] [in capital]","[+10]% [Gold] [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Capitalism]>"]
 	},
 	{
@@ -84,7 +84,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["Unbuildable","Can be purchased for [1009] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1009] [Culture] [in all cities] <in cities without a [Economic Dilemma B]>",
                         "[+35]% [Gold] <with [59]% chance>","[-50]% [Gold] <with [41]% chance>","Cannot be purchased <in cities with a [Economic Dilemma B]>"]
 	},
 	{
@@ -92,7 +92,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["Unbuildable","Can be purchased for [1009] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1009] [Culture] [in all cities] <in cities without a [Economic Dilemma A]>",
                         "[+40]% [Gold] <with [41]% chance>","[-10]% [Gold] <with [59]% chance>","Cannot be purchased <in cities with a [Economic Dilemma A]>"]
 	},
 	{
@@ -108,7 +108,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
-		"uniques": ["Unbuildable","Can be purchased for [1509] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1509] [Culture] [in all cities] <in cities without a [Dark Matter]>",
                         "All healing effects doubled <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Dark Matter]>"]
 	},
 	{
@@ -116,7 +116,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
-		"uniques": ["Unbuildable","Can be purchased for [1509] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1509] [Culture] [in all cities] <in cities without a [Superstring Theory]>",
                         "[+50]% Production when constructing [Spaceship part] units [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Superstring Theory]>"]
 	},
 	{
@@ -124,7 +124,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
-		"uniques": ["Unbuildable","Can be purchased for [2009] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [2009] [Culture] [in all cities] <in cities without a [Quantum Gravity Theory]>",
                         "Defense bonus when embarked <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Quantum Gravity Theory]>"]
 	},
 	{
@@ -132,7 +132,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
-		"uniques": ["Unbuildable","Can be purchased for [1509] [Culture] [in all cities]",
+		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1509] [Culture] [in all cities] <in cities without a [Cosmic Inflation]>",
                         "[100] XP gained from combat <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Cosmic Inflation]>"]
 	},
 ]
