@@ -20,7 +20,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Porcelain]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
                         "[Great General] is earned [+10]% faster","Cannot be purchased <in cities with a [Porcelain]>"]
         },
 	{
@@ -28,7 +28,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Pottery",
-		"uniques": ["SubTechs","Can only be built [in capital]","Provides [1] [Porcelain]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Authority]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Provides [1] [Porcelain]","Unbuildable",
                         "[Great Artist] is earned [+10]% faster","Cannot be purchased <in cities with a [Authority]>"]
 	},
 	{
@@ -36,7 +36,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Pet]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
                         "[-7]% tile improvement construction time","[+4]% [Food]","Cannot be purchased <in cities with a [Pet]>"]
 	},
 	{
@@ -44,7 +44,7 @@
 		"cost": 28,
                 "isNationalWonder": true,
 		"requiredTech": "Animal Husbandry",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [28] [Culture] [in all cities] <in cities without a [Plow]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
                         "[+1 Happiness]","Cannot be purchased <in cities with a [Plow]>"]
 	},
 	{
@@ -52,7 +52,7 @@
 		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [139] [Culture] [in all cities] <in cities without a [Alloy]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
                         "Provides [1] [Gold Ore]","Cannot be purchased <in cities with a [Alloy]>"]
 	},
 	{
@@ -60,7 +60,7 @@
 		"cost": 139,
                 "isNationalWonder": true,
 		"requiredTech": "Metal Casting",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [139] [Culture] [in all cities] <in cities without a [Chrysopoeia]>",
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
                         "Provides [1] [Iron]","Cannot be purchased <in cities with a [Chrysopoeia]>"]
 	},
 	{
@@ -68,7 +68,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["SubTechs","Unbuildable","Can be purchased for [259] [Culture] [in all cities] <in cities without a [Redistribution]>",
+		"uniques": ["SubTechs","Unbuildable",
                         "[+20]% [Gold] [in capital]","[-10]% [Gold] [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Redistribution]>"]
 	},
 	{
@@ -76,7 +76,7 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["SubTechs","Unbuildable","Can be purchased for [259] [Culture] [in all cities] <in cities without a [Capitalism]>",
+		"uniques": ["SubTechs","Unbuildable",
                         "[-20]% [Gold] [in capital]","[+10]% [Gold] [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Capitalism]>"]
 	},
 	/*
@@ -102,39 +102,39 @@
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["SubTechs","Unbuildable","Can be purchased for [1009] [Culture] [in all cities]",
+		"uniques": ["SubTechs","Unbuildable",
                         "Gain [3000] [Gold] <with [81]% chance>","[-69]% [Production] <for [8] turns> <with [89]% chance>","Can only be built [in capital]"]
 	},
 	{
-		"name": "Superstring Theory",
+		"name": "Superstrings Theory",
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [1509] [Culture] [in all cities] <in cities without a [Dark Matter]>",
-                        "All healing effects doubled <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Dark Matter]>"]
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
+                        "All healing effects doubled <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Unified Field Theory]>"]
 	},
 	{
-		"name": "Dark Matter",
+		"name": "Unified Field Theory",
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [1509] [Culture] [in all cities] <in cities without a [Superstring Theory]>",
-                        "[+50]% Production when constructing [Spaceship part] units [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Superstring Theory]>"]
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
+                        "[+100]% Production when constructing [Spaceship part] units [in all cities]","Can only be built [in capital]","Cannot be purchased <in cities with a [Superstrings Theory]>"]
 	},
 	{
-		"name": "Cosmic Inflation",
+		"name": "Cosmic Constant",
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Unpurchasable <in cities with a [Quantum Gravity Theory]>",
-                        "Defense bonus when embarked <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Quantum Gravity Theory]>"]
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
+                        "Defense bonus when embarked <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Darkmatter Physics]>"]
 	},
 	{
-		"name": "Quantum Gravity Theory",
+		"name": "Darkmatter Physics",
 		"cost": 1,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
-		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","",
-                        "[100] XP gained from combat <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Cosmic Inflation]>"]
+		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
+                        "[100] XP gained from combat <for [All] units>","Can only be built [in capital]","Cannot be purchased <in cities with a [Cosmic Constant]>"]
 	},
 ]
