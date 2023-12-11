@@ -1,4 +1,4 @@
 {
     "name": "GlobalUniques",
-    "uniques": ["May buy [SubTechs] buildings with [Culture] for [5] times their normal Production cost"]
+    "uniques": ["May buy [SubTechs] buildings with [Culture] for [5] times their normal Production cost","May buy [SubTechs] buildings with [Science] for [5] times their normal Production cost"]
 }
