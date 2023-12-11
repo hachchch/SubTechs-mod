@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "Capitalism",
-		"cost": 1,
+		"cost": 250,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["SubTechs","Unbuildable",
@@ -73,7 +73,7 @@
 	},
 	{
 		"name": "Redistribution",
-		"cost": 1,
+		"cost": 250,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["SubTechs","Unbuildable",
@@ -82,7 +82,7 @@
 	/*
 	{
 		"name": "Economic Dilemma A",
-		"cost": 1,
+		"cost": 245,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable","Can be purchased for [1009] [Culture] [in all cities] <in cities without a [Economic Dilemma B]>",
@@ -90,7 +90,7 @@
 	},
 	{
 		"name": "Economic Dilemma B",
-		"cost": 1,
+		"cost": 245,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["Can only be built [in capital]","Unbuildable","Can be purchased for [1009] [Culture] [in all cities] <in cities without a [Economic Dilemma A]>",
@@ -99,7 +99,7 @@
 	*/
 	{
 		"name": "Budget And Challenges",
-		"cost": 1,
+		"cost": 223,
                 "isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["SubTechs","Unbuildable",
@@ -107,7 +107,7 @@
 	},
 	{
 		"name": "Superstrings Theory",
-		"cost": 1,
+		"cost": 1029,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
 		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
@@ -115,7 +115,7 @@
 	},
 	{
 		"name": "Unified Field Theory",
-		"cost": 1,
+		"cost": 1029,
                 "isNationalWonder": true,
 		"requiredTech": "Particle Physics",
 		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
@@ -123,7 +123,7 @@
 	},
 	{
 		"name": "Cosmic Constant",
-		"cost": 1,
+		"cost": 3234,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
 		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Darkmatter Physics",
-		"cost": 1,
+		"cost": 3234,
                 "isNationalWonder": true,
 		"requiredTech": "Future Tech",
 		"uniques": ["SubTechs","Can only be built [in capital]","Unbuildable",
